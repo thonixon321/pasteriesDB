@@ -1,0 +1,16 @@
+{
+  "pasteries": [
+    {
+      "name": "Sugary Delight",
+      "price": 2.00
+    },
+    {
+      "name": "Chocolate Dream",
+      "price": 3.00
+    },
+    {
+      "name": "Apple Surprise",
+      "price": 1.00
+    }
+  ]
+}
