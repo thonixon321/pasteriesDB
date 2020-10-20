@@ -2,15 +2,21 @@
   "pasteries": [
     {
       "name": "Sugary Delight",
-      "price": 2.00
+      "price": 2.00,
+      "damage": 2,
+      "block": 2
     },
     {
       "name": "Chocolate Dream",
-      "price": 3.00
+      "price": 3.00,
+      "damage": 3,
+      "block": 3
     },
     {
       "name": "Apple Surprise",
-      "price": 1.00
+      "price": 1.00,
+      "damage": 1,
+      "block": 1
     }
   ]
 }
